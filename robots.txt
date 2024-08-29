@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://asterge.github.io/sitemap.html.gz
+Sitemap: https://asterge.github.io/app/sitemap.html.gz
+Sitemap: https://asterge.github.io/assets/sitemap.html.gz
+Sitemap: https://asterge.github.io/css/sitemap.html.gz
+Sitemap: https://asterge.github.io/includes/sitemap.html.gz
+Sitemap: https://asterge.github.io/item/sitemap.html.gz
+Sitemap: https://asterge.github.io/src/sitemap.html.gz
